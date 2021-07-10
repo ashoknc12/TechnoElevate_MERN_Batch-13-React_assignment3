@@ -24,7 +24,7 @@ export const routing = (
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
         <ul className="navbar-nav mr-auto">
           <li className="nav-item active">
-            <NavLink className="nav-link" to="/home" activeClassName="btn btn-danger">
+            <NavLink className="nav-link" to="/home" activeClassName="btn btn-">
                Employee Portal
             </NavLink>
           </li>

@@ -1,8 +1,8 @@
 import React,{useState} from "react";
 import { Link, BrowserRouter, Route, Switch, NavLink } from "react-router-dom";
-import Employeeportal from "./components/Employeeportal";
-import Employeelist from "./components/Employeelist";
-import Employeedetails from "./components/Employeedetail";
+import Employeeportal from "./components/Eportal";
+import Employeelist from "./components/Elist";
+import Employeedetails from "./components/Edetail";
 import Logout from "./components/Logout";
 import Login from "./components/Login";
 function App() {

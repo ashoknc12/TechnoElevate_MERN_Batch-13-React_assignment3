@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Employeelist() {
+export default function Elist() {
     return (
         <div className="card bg-light" id="tab" >
         <div className="card bg-dark" style={{height:'200px',width:'700px',margin:'auto',color:'white'}} >
